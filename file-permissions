@@ -4,3 +4,6 @@ https://linuxhandbook.com/symbolic-link-linux/
 
 linux-file-permissions.
 https://linuxhandbook.com/linux-file-permissions/
+
+/etc - editable-text-configurations, It stores storage system configuration files, executables required to boot the system, and some log files.
+
