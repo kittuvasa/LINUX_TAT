@@ -6,4 +6,5 @@ linux-file-permissions.
 https://linuxhandbook.com/linux-file-permissions/
 
 /etc - editable-text-configurations, It stores storage system configuration files, executables required to boot the system, and some log files.
+etc/systemd/system/ is the default systemd directory in many Linux distros, including Red Hat Linux.
 
